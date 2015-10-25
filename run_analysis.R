@@ -53,7 +53,7 @@ XFull <- XFull[, !duplicated(names(XFull))]
 XFull <- select(XFull, Subject, Activity, contains("mean()"), contains("std()"))
 
 ## Creates independent tidy data set with the average of each variable for
-## each activity and each subject
+## each activity and each subject (Step 5)
 grouped_data <- group_by(XFull, Subject, Activity)
 TidyData <- summarize_each(grouped_data, funs(mean))
 
