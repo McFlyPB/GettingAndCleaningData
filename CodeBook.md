@@ -1,6 +1,6 @@
 # Code Book: Description of the tidy data set variables
 
-Below is the list of variables obtained after the analysis performed by the project of the course Getting and Cleaning Data. The data set contains the means of data sampling made with the Samsung smartphone with respect to 30 subjects on 6 differences activities. All values are based on normalized variables, meaning all initial values were comprised beween -1.00 and 1.OO. 
+Below is the list of variables obtained after the analysis performed by the project of the course Getting and Cleaning Data. The data set contains the means of data sampling made with the Samsung smartphone with respect to 30 subjects on 6 differences activities. All values are based on normalized variables, meaning all initial values were comprised beween -1.00 and 1.00. 
 
 ## Subject 
 
